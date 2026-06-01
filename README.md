@@ -1,2 +1,0 @@
-# tombola
-tombola école
